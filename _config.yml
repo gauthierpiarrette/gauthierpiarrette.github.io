@@ -3,7 +3,7 @@
 
 title: WinkUp
 url: "https://proud-alligator.cloudvent.net"
-baseurl:
+baseurl: https://github.com/gauthierpiarrette/gauthierpiarrette.github.io
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
