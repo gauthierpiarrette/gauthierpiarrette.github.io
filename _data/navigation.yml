@@ -1,5 +1,5 @@
 - name: Home
-  link: 'https://winkup.io'
+  link: /
   new_window: false
   highlight: false
 - name: Docs
