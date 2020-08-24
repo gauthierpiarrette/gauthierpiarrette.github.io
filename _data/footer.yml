@@ -17,8 +17,8 @@
     - name: Docs
       link: /docs/
       new_window: true
-    - name: Status
-      link: /
+    - name: Roadmap
+      link: /roadmap/
       new_window: true
 - links:
     - name: Facebook
