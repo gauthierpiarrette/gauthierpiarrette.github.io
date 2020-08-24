@@ -22,3 +22,7 @@
   link: /
   new_window: true
   highlight: true
+- name: Docs
+  link:
+  new_window: false
+  highlight: true
